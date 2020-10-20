@@ -1,0 +1,6 @@
+FROM adoptopenjdk/openjdk8:latest
+RUN mkdir /usr/src/bootdocker
+WORKDIR /usr/src/bootdocker
+COPY music-api-2.2.7.RELEASE.jar .
+EXPOSE 8080
+CMD ["java", "-jar","/usr/src/bootdocker/music-api-2.2.7.RELEASE.jar"]

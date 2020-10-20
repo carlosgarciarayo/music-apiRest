@@ -1,0 +1,6 @@
+com/cgr/musicapi/service/AlbumsService.class
+com/cgr/musicapi/model/Album.class
+com/cgr/musicapi/controller/AlbumsController.class
+com/cgr/musicapi/MusicApiApplication.class
+com/cgr/musicapi/service/impl/AlbumsServiceIMPL.class
+com/cgr/musicapi/repository/AlbumRepository.class

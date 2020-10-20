@@ -1,0 +1,6 @@
+/home/carlos/gitHub/music-apiRest/src/main/java/com/cgr/musicapi/service/AlbumsService.java
+/home/carlos/gitHub/music-apiRest/src/main/java/com/cgr/musicapi/repository/AlbumRepository.java
+/home/carlos/gitHub/music-apiRest/src/main/java/com/cgr/musicapi/controller/AlbumsController.java
+/home/carlos/gitHub/music-apiRest/src/main/java/com/cgr/musicapi/MusicApiApplication.java
+/home/carlos/gitHub/music-apiRest/src/main/java/com/cgr/musicapi/model/Album.java
+/home/carlos/gitHub/music-apiRest/src/main/java/com/cgr/musicapi/service/impl/AlbumsServiceIMPL.java
